@@ -2,11 +2,12 @@
 
 ## Introduction
 
-* [J'entreprends...](intro/01.md)
+* [Titre](titre.md)
+* [J’entreprends...](intro/01.md)
 * [La vie intérieure !](intro/02.md)
-* [J'aborde cet essai...](intro/03.md)
+* [J’aborde cet essai...](intro/03.md)
 
-## Chapitre premier: l'avenir du bonheur
+## Chapitre premier : l’avenir du bonheur
 
 * [I](chap01/01.md)
 * [II](chap01/02.md)
@@ -19,3 +20,12 @@
 * [IX](chap01/09.md)
 * [X](chap01/10.md)
 * [XI](chap01/11.md)
+
+## Chapitre II : richesse et pauvreté
+
+* [I](chap02/01.md)
+* [II](chap02/02.md)
+* [III](chap02/03.md)
+* [IV](chap02/04.md)
+* [V](chap02/05.md)
+* [VI](chap02/06.md)
